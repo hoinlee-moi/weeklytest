@@ -1,3 +1,5 @@
+package java0520;
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
@@ -20,6 +22,7 @@ abstract class Player{
     public String getName() { return name; }
     public void printFightList() {
         // TODO
+
     }
 }
 class PlayerATeam extends Player
