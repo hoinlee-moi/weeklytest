@@ -34,7 +34,6 @@ class Minesweeper
         int numOfMine = 0;
         // todo
 
-
         return numOfMine;
     }
 
